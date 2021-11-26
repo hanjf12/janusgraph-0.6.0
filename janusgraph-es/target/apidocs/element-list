@@ -1,6 +1,0 @@
-org.janusgraph.diskstorage.es
-org.janusgraph.diskstorage.es.compat
-org.janusgraph.diskstorage.es.mapping
-org.janusgraph.diskstorage.es.rest
-org.janusgraph.diskstorage.es.rest.util
-org.janusgraph.diskstorage.es.script

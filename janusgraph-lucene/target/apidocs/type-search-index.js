@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"org.janusgraph.diskstorage.lucene","l":"LuceneCustomAnalyzer"},{"p":"org.janusgraph.diskstorage.lucene","l":"LuceneIndex"},{"p":"org.janusgraph.diskstorage.lucene","l":"NumericTranslationQueryParser"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();

@@ -1,9 +1,0 @@
-com.codahale.metrics
-org.janusgraph.diskstorage.cql
-org.janusgraph.diskstorage.cql.builder
-org.janusgraph.diskstorage.cql.function
-org.janusgraph.diskstorage.cql.function.mutate
-org.janusgraph.diskstorage.cql.function.slice
-org.janusgraph.hadoop
-org.janusgraph.hadoop.formats.cql
-org.janusgraph.hadoop.scan

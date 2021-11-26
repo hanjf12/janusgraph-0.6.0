@@ -1,7 +1,0 @@
-org/janusgraph/diskstorage/lucene/LuceneIndex$1.class
-org/janusgraph/diskstorage/lucene/LuceneIndex.class
-org/janusgraph/diskstorage/lucene/LuceneIndex$Transaction.class
-org/janusgraph/diskstorage/lucene/NumericTranslationQueryParser.class
-org/janusgraph/diskstorage/lucene/LuceneIndex$SearchParams.class
-org/janusgraph/diskstorage/lucene/LuceneCustomAnalyzer.class
-org/janusgraph/diskstorage/lucene/LuceneCustomAnalyzer$1.class

@@ -1,7 +1,0 @@
-com.google.common.base
-com.google.common.io
-org.janusgraph.diskstorage.hbase
-org.janusgraph.hadoop
-org.janusgraph.hadoop.config
-org.janusgraph.hadoop.formats.hbase
-org.janusgraph.hadoop.scan

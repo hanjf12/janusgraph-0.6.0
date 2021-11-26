@@ -1,3 +1,0 @@
-[ssl]
-certfile = /etc/ssl/node.crt
-validate = false

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.42">
-<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-all/src/test/java/org/janusgraph/core/EnsureCacheTest.java">
-</file>
-<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-all/src/test/resources/log4j.properties">
-</file>
-</checkstyle>
