@@ -1,0 +1,10 @@
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/CQLElasticsearchTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchConfigTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticSearchScrollTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/JanusGraphElasticsearchContainer.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/BerkeleyElasticsearchTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchIndexTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchJanusGraphIndexTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/util/BasicAuthHttpClientConfigCallbackTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/RestClientSetupTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/util/SSLConfigurationCallbackTest.java

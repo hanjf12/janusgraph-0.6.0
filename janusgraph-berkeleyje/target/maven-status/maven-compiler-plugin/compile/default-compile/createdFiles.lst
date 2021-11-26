@@ -1,0 +1,13 @@
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$IsolationLevel$4.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEKeyValueStore.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$TransactionBegin.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJETx$1.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEKeyValueStore$1.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJETx.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$IsolationLevel$1.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$IsolationLevel.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJETx$TransactionClose.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$1.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$IsolationLevel$3.class
+org/janusgraph/diskstorage/berkeleyje/BerkeleyJEStoreManager$IsolationLevel$2.class

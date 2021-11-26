@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/MapReduceIndexManagement.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/input/VertexReader.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/input/current/JanusGraphHadoopSetupImpl.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/input/SystemTypeInspector.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/input/JanusGraphHadoopSetup.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/AbstractBinaryInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/JanusGraphVertexDeserializer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/HadoopRecordReader.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/util/HadoopInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/JobConfigurationFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/formats/FormatTools.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/MapReduceIndexJobs.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/config/job/AbstractDistCacheConfigurer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/config/job/JobClasspathConfigurers.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/config/job/JobClasspathConfigurer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/config/JanusGraphHadoopConfiguration.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/config/HadoopConfiguration.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/config/ModifiableHadoopConfiguration.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/MapredJarConfigurer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/ImmutableConfiguration.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/serialize/JanusGraphKryoShimService.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/serialize/JanusGraphKryoRegistrator.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/scan/AbstractHadoopScanRunner.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/scan/HadoopContextScanMetrics.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/scan/HadoopScanRunner.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/scan/HadoopScanMapper.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/scan/HadoopVertexScanMapper.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/CountersScanMetrics.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/HadoopStoreManager.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/main/java/org/janusgraph/hadoop/DistCacheConfigurer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/test/java/org/janusgraph/hadoop/AbstractInputFormatIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/test/java/org/janusgraph/hadoop/AbstractIndexManagementIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/test/java/org/janusgraph/hadoop/ConfigurationTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/test/java/org/janusgraph/hadoop/MapReduceRemoveIndexApp.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/test/resources/org/janusgraph/hadoop/graphson-noop.properties">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hadoop/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

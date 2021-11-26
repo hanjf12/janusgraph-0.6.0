@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-grpc/src/main/java/org/janusgraph/graphdb/grpc/schema/SchemaManagerClient.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-grpc/src/main/java/org/janusgraph/graphdb/grpc/JanusGraphManagerClient.java">
+</file>
+</checkstyle>

@@ -1,0 +1,4 @@
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/UncheckedSolrException.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/transform/GeoToWktConverter.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/SolrIndex.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/SolrResultIterator.java

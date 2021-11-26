@@ -1,0 +1,45 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:14:51+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 19
+
+Apache Licensed: 19
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/resources/import-collections.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexWithoutKerberosTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/BerkeleySolrTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/JanusGraphSolrContainer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/MiniKDC.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrJanusGraphIndexTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrTestCategory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexKerberosKeytabTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexKerberosMissingConfigTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrRunner.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/transform/GeoToWktConverterTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/CQLSolrTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/apache/solr/cloud/ConfigurableMiniSolrCloudCluster.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/UncheckedSolrException.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/SolrResultIterator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/SolrIndex.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/transform/GeoToWktConverter.java
+ 
+*****************************************************

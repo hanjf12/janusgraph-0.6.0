@@ -1,0 +1,61 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:14:06+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 35
+
+Apache Licensed: 35
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/InMemoryMultiQueryGraphProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/InMemoryGraphComputerProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/InMemoryGraphProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/structure/InMemoryJanusGraphStructureTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/process/InMemoryMultiQueryJanusGraphProcessTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/process/InMemoryJanusGraphComputerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/blueprints/inmemory/process/InMemoryJanusGraphProcessTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/core/inmemory/InmemoryConfiguredGraphFactoryTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/TestPagedBufferColumnValueStore.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InMemoryColumnValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InMemoryKeyColumnValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/BufferPageTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InMemoryStoreManagerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InMemoryIDAuthorityTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InmemoryGraphDatabaseConfigurationInstanceExecutorServiceTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InMemoryLockKeyColumnValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/MultiPageEntryBufferTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/diskstorage/inmemory/InmemoryGraphDatabaseConfigurationInstanceIdTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/graphdb/inmemory/InMemoryJanusGraphIoTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/graphdb/inmemory/InMemoryPartitionGraphTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/graphdb/inmemory/InMemoryConfigurationTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/graphdb/inmemory/InMemoryGraphTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/test/java/org/janusgraph/graphdb/inmemory/InMemoryOLAPTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/InMemoryStoreManager.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/MemoryEntryList.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/SharedEntryBuffer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/SinglePageEntryBuffer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/InMemoryColumnValueStore.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/BufferPageUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/InMemoryKeyColumnValueStore.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/InMemoryKeyColumnValueStoreFragmentationReport.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/SharedEntryBufferFragmentationReport.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/MultiPageEntryBuffer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-inmemory/src/main/java/org/janusgraph/diskstorage/inmemory/BufferPage.java
+ 
+*****************************************************

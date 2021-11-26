@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/LuceneIndex.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/LuceneCustomAnalyzer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/NumericTranslationQueryParser.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/LuceneExample.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/LuceneIndexTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/BerkeleyLuceneTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/graphdb/BerkeleyLuceneIndexMetricTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

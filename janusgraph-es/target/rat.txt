@@ -1,0 +1,69 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:14:43+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 43
+
+Apache Licensed: 43
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/CQLElasticsearchTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchConfigTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/JanusGraphElasticsearchContainer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticSearchScrollTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/BerkeleyElasticsearchTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchJanusGraphIndexTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/RestClientSetupTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/util/BasicAuthHttpClientConfigCallbackTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/util/SSLConfigurationCallbackTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchIndexTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchMutation.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/mapping/IndexMapping.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/mapping/TypelessIndexMappings.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/mapping/TypedIndexMappings.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchClient.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/AbstractESCompat.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/ES6Compat.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/ESCompatUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/ES7Compat.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchRequest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchResponse.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchConstants.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchIndex.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticMajorVersion.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/script/ESScriptResponse.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/script/ESScript.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchSetup.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchScroll.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestSearchResponse.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestIndexSettings.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/RestClientAuthenticatorBase.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/RestClientAuthenticator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/BasicAuthHttpClientConfigCallback.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/HttpAuthTypes.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/SSLConfigurationCallback.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/ConnectionKeepAliveConfigCallback.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestBulkResponse.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestElasticSearchClient.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestSearchHit.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestCountResponse.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestClientSetup.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestSearchResults.java
+ 
+*****************************************************

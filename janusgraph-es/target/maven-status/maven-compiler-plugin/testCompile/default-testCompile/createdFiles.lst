@@ -1,0 +1,13 @@
+org/janusgraph/diskstorage/es/JanusGraphElasticsearchContainer.class
+org/janusgraph/diskstorage/es/ElasticsearchJanusGraphIndexTest.class
+org/janusgraph/diskstorage/es/rest/util/SSLConfigurationCallbackTest.class
+org/janusgraph/diskstorage/es/ElasticSearchScrollTest.class
+org/janusgraph/diskstorage/es/ElasticsearchConfigTest$1.class
+org/janusgraph/diskstorage/es/ElasticsearchConfigTest$2.class
+org/janusgraph/diskstorage/es/rest/RestClientSetupTest$TestCustomAuthenticator.class
+org/janusgraph/diskstorage/es/rest/RestClientSetupTest.class
+org/janusgraph/diskstorage/es/ElasticsearchConfigTest.class
+org/janusgraph/diskstorage/es/rest/util/BasicAuthHttpClientConfigCallbackTest.class
+org/janusgraph/diskstorage/es/CQLElasticsearchTest.class
+org/janusgraph/diskstorage/es/ElasticsearchIndexTest.class
+org/janusgraph/diskstorage/es/BerkeleyElasticsearchTest.class

@@ -1,0 +1,4 @@
+org/janusgraph/diskstorage/lucene/LuceneExample.class
+org/janusgraph/diskstorage/lucene/BerkeleyLuceneTest.class
+org/janusgraph/diskstorage/lucene/LuceneIndexTest.class
+org/janusgraph/graphdb/BerkeleyLuceneIndexMetricTest.class

@@ -1,0 +1,34 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:14:47+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 8
+
+Apache Licensed: 8
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/LuceneExample.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/LuceneIndexTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/BerkeleyLuceneTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/graphdb/BerkeleyLuceneIndexMetricTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/LuceneIndex.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/LuceneCustomAnalyzer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/NumericTranslationQueryParser.java
+ 
+*****************************************************

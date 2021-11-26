@@ -1,0 +1,128 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:14:58+08:00
+
+Notes: 0
+Binaries: 5
+Archives: 0
+Standards: 97
+
+Apache Licensed: 97
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/Dockerfile
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/docker-compose.yml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/es/elasticsearch.yml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/resources/target.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/resources/test_gremlin_init.groovy
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/BerkeleyESAssemblyIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/JanusGraphAssemblyBaseIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/AbstractJanusGraphAssemblyIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/JanusGraphScriptIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/GremlinShellArgsIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/BerkeleyAssemblyIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/GraphOfTheGodsCompatIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/TestCategory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/InMemoryAssemblyIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/CqlESAssemblyIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/java/org/janusgraph/pkgtest/CqlAssemblyIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/janusgraph-server-sh.before.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/janusgraph-sh.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/janusgraph-server-sh.after.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/gremlin-shell-args.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/getting-started.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/compat-test.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/test/expect/single-vertex.expect.vm
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-berkeleyje-lucene.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-hbase-es.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-hbase.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-berkeleyje.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-cql-es.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-cql.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-berkeleyje-solr.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-hbase-solr.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-cql-solr.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-inmemory.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-cql-configurationgraph.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/cfilter/conf/janusgraph-berkeleyje-es.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/checksocket.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/gremlin.bat
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/gremlin.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/gremlin-server.bat
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/janusgraph.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/janusgraph-server.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/bin/checkconfig.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/logs/.gitkeep
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/cassandra/bin/cassandra
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/cassandra/conf/cassandra.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/cassandra/conf/jvm.options
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/scripts/empty-sample.groovy
+  B     /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/tinkerpop-crew.kryo
+  B     /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/tinkerpop-modern.kryo
+  B     /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/tinkerpop-sink.kryo
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/script-input-tinkerpop.groovy
+  B     /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/tinkerpop-classic.kryo
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/script-input-grateful-dead.groovy
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/grateful-dead-janusgraph-schema.groovy
+  B     /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/data/grateful-dead.kryo
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/remote-graph.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/remote-objects.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/remote.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/remote-graph-binary.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/log4j-server.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/gremlin-server/gremlin-server-berkeleyje.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/gremlin-server/gremlin-server-cql-es.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/gremlin-server/gremlin-server-berkeleyje-es.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/gremlin-server/gremlin-server-cql.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/gremlin-server/gremlin-server-configuration.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/gremlin-server/gremlin-server.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/log4j-console.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-hbase.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-cql.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-cql-standalone-cluster.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/hadoop-load.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-hbase-snapshot.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-cassandra-standalone-cluster.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/hadoop-gryo.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-cassandra.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/hadoop-graphson.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/hadoop-script.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/hadoop-graph/read-hbase-standalone-cluster.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/conf/jvm.options
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/elasticsearch/config/elasticsearch.yml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/assembly/static/elasticsearch/config/jvm.options
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/resources/pkgcommon/etc/version.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/quick-setup-for-redhat.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/build-all.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/install-jars.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/clean.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/update-local-repos.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/quick-setup-for-debian.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/install-payload.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/bin/partition-jars.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/etc/config.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/usr/bin/gremlin.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/usr/sbin/janusgraph
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/usr/share/janusgraph/janusgraph.in.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/etc/janusgraph/janusgraph-env.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/etc/janusgraph/config.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/etc/janusgraph/cassandra.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/pkgcommon/payload/etc/janusgraph/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/redhat/payload/janusgraph.init
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/redhat/build.sh
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-dist/src/pkg/static/redhat/janusgraph.spec.base
+ 
+*****************************************************

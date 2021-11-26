@@ -1,0 +1,13 @@
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/core/attribute/TinkerPopTextWrappingPredicateTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/binary/RelationIdentifierGraphBinarySerializerTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/JanusGraphSerializerBaseIT.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/util/encoding/LongEncodingTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleIT.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/JanusGraphIoRegistryTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/core/JanusGraphContainer.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/JanusGraphGryoIT.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/core/attribute/GeoshapeHelperTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/binary/GeoshapeGraphBinarySerializerTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/binary/JanusGraphPGraphBinarySerializerTest.java
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/plugin/JanusGraphGremlinDriverPluginTest.java

@@ -1,0 +1,74 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:14:10+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 48
+
+Apache Licensed: 48
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/gremlin-server-integration.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/janusgraph-server-with-grpc.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/janusgraph-server-with-serializers.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/janusgraph-server-without-serializers.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/invalid-config.yaml
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/janusgraph-inmemory.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/conf/janusgraph-server-integration.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/conf/janusgraph-inmemory.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/resources/tinkergraph.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/handler/HttpHMACAuthenticationHandlerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/handler/SaslAndHMACAuthenticationHandlerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/SaslAndHMACAuthenticatorTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/MockedSimpleAuthenticatorFactory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/MockedSaslAndHmacAuthenticatorFactory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/MockedHmacAuthenticatorFactory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/JanusGraphSimpleAuthenticatorTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/ConfigBuilder.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/MockedJanusGraphAuthenticatorFactory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/CredentialsBuilder.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/HmacConfigBuilder.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/HMACAuthenticatorTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/JanusGraphAbstractAuthenticatorTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/TestClientFactory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/ConfigurationManagementGraphServerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/tinkerpop/AbstractGremlinServerIntegrationTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/grpc/JanusGraphManagerClientTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/grpc/JanusGraphGrpcServerBaseTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/grpc/schema/SchemaManagerImplTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/grpc/schema/SchemaManagerClientTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/server/TestingServerClosable.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/server/util/JanusGraphSettingsUtilsTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/server/JanusGraphServerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/test/java/org/janusgraph/graphdb/server/JanusGraphSettingsTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/handler/SaslAndHMACAuthenticationHandler.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/handler/HttpHMACAuthenticationHandler.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/JanusGraphAbstractAuthenticator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/HMACAuthenticator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/SaslAndHMACAuthenticator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/tinkerpop/gremlin/server/auth/JanusGraphSimpleAuthenticator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/grpc/schema/util/GrpcUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/grpc/schema/SchemaManagerImpl.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/grpc/schema/SchemaManagerProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/grpc/JanusGraphManagerServiceImpl.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/grpc/JanusGraphContextHandler.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/server/util/JanusGraphSettingsUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/server/JanusGraphSettings.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-server/src/main/java/org/janusgraph/graphdb/server/JanusGraphServer.java
+ 
+*****************************************************

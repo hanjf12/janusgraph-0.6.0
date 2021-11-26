@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/CQLKeyColumnValueStore.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/CQLColValGetter.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/CQLTransaction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/CQLStoreManager.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/ColumnOperationFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/slice/CQLExecutorServiceSliceFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/slice/CQLSimpleSliceFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/slice/AbstractCQLSliceFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/slice/CQLSliceFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/ConsumerWithBackendException.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/AbstractCQLMutateManyLoggedFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/CQLSimpleMutateManyLoggedFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/CQLExecutorServiceMutateManyLoggedFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/AbstractCQLMutateManyFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/AbstractCQLMutateManyUnloggedFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/CQLMutateManyFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/CQLExecutorServiceMutateManyUnloggedFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/function/mutate/CQLSimpleMutateManyUnloggedFunction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/CQLResultSetKeyIterator.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/builder/CQLProgrammaticConfigurationLoaderBuilder.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/builder/CQLStoreFeaturesBuilder.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/builder/CQLSessionBuilder.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/builder/CQLStoreFeaturesWrapper.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/builder/CQLMutateManyFunctionWrapper.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/builder/CQLMutateManyFunctionBuilder.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/diskstorage/cql/CQLConfigOptions.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/hadoop/formats/cql/CqlInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/hadoop/formats/cql/CqlBinaryInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/hadoop/formats/cql/CqlBinaryRecordReader.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/hadoop/scan/CQLHadoopScanRunner.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/hadoop/CqlMapReduceIndexJobsUtils.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/org/janusgraph/hadoop/CqlHadoopStoreManager.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/main/java/com/codahale/metrics/JmxReporter.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/CQLGraphProvider.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/CQLMultiQueryGraphProvider.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/structure/CQLStructureTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/CQLGraphComputerProvider.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/process/CQLProcessTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/process/CQLMultiQueryProcessTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/blueprints/cql/process/CQLComputerTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/core/cql/CQLConfiguredGraphFactoryTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLStoreTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLLogTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLMultiWriteStoreTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLConfigTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLDistributedStoreManagerTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLIDAuthorityTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLLockStoreTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CQLResultSetKeyIteratorTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CachingCQLStoreManager.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/diskstorage/cql/CachingCQLSessionBuilder.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/hadoop/CQLScanJobIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/hadoop/CQLIndexManagementIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/hadoop/CQLInputFormatIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/JanusGraphCassandraContainer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLGraphTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLEventualGraphTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLGraphIterativeTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLGraphConcurrentTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLGraphPerformanceMemoryTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLOperationCountingTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLPartitionGraphTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLOLAPTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/java/org/janusgraph/graphdb/cql/CQLGraphCacheTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/resources/cql-read.properties">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/resources/cql-read-multi-hosts.properties">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-cql/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

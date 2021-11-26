@@ -1,0 +1,13 @@
+org/janusgraph/graphdb/tinkerpop/plugin/JanusGraphGremlinDriverPluginTest.class
+org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleIT.class
+org/janusgraph/graphdb/tinkerpop/JanusGraphSerializerBaseIT.class
+org/janusgraph/graphdb/tinkerpop/io/binary/JanusGraphPGraphBinarySerializerTest.class
+org/janusgraph/util/encoding/LongEncodingTest.class
+org/janusgraph/graphdb/tinkerpop/JanusGraphIoRegistryTest.class
+org/janusgraph/core/attribute/TinkerPopTextWrappingPredicateTest.class
+org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleTest.class
+org/janusgraph/graphdb/tinkerpop/io/binary/GeoshapeGraphBinarySerializerTest.class
+org/janusgraph/graphdb/tinkerpop/io/binary/RelationIdentifierGraphBinarySerializerTest.class
+org/janusgraph/core/JanusGraphContainer.class
+org/janusgraph/core/attribute/GeoshapeHelperTest.class
+org/janusgraph/graphdb/tinkerpop/JanusGraphGryoIT.class

@@ -1,0 +1,9 @@
+org.janusgraph.hadoop
+org.janusgraph.hadoop.config
+org.janusgraph.hadoop.config.job
+org.janusgraph.hadoop.formats
+org.janusgraph.hadoop.formats.util
+org.janusgraph.hadoop.formats.util.input
+org.janusgraph.hadoop.formats.util.input.current
+org.janusgraph.hadoop.scan
+org.janusgraph.hadoop.serialize

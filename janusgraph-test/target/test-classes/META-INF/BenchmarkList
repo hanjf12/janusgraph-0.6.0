@@ -1,0 +1,1 @@
+JMH S 55 org.janusgraph.graphdb.query.GraphCentricQueryBenchmark S 85 org.janusgraph.graphdb.query.generated.GraphCentricQueryBenchmark_getVertices_jmhTest S 11 getVertices S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 E E E E E M 3 12 hardMaxLimit 2 6 100000 10 2147483647 4 size 2 5 10000 6 250000 13 useSmartLimit 2 4 true 5 false U 12 MILLISECONDS E E 

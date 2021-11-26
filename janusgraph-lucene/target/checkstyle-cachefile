@@ -1,0 +1,10 @@
+#Fri Nov 26 15:14:47 CST 2021
+configuration*?=D58D66E0A50197B5C30AB47B986D348E11F301F7
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/NumericTranslationQueryParser.java=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/LuceneIndexTest.java=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/resources/log4j.properties=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/LuceneIndex.java=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/main/java/org/janusgraph/diskstorage/lucene/LuceneCustomAnalyzer.java=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/LuceneExample.java=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/graphdb/BerkeleyLuceneIndexMetricTest.java=1630671098000
+/Users/hjf/code/janusgraph-0.6.0/janusgraph-lucene/src/test/java/org/janusgraph/diskstorage/lucene/BerkeleyLuceneTest.java=1630671098000

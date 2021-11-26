@@ -1,0 +1,97 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:13:55+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 71
+
+Apache Licensed: 71
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/JanusGraphBaseStoreFeaturesTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/olap/ShortestDistanceMapReduce.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/olap/PageRankMapReduce.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/olap/ShortestDistanceVertexProgram.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/olap/ShortestDistanceMessageCombiner.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/olap/PageRankVertexProgram.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/olap/OLAPTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/blueprints/AbstractJanusGraphProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/blueprints/AbstractJanusGraphComputerProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/blueprints/JanusGraphTestListener.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/core/attribute/TextArgument.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/core/AbstractConfiguredGraphFactoryTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/StorageSetup.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/LockKeyColumnValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/SimpleScanJob.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/configuration/WritableConfigurationTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/KeyColumnValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/util/TestTimeUtility.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/util/TestLockerManager.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/IDAuthorityTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/KeyValueStoreUtil.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/KeyColumn.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/AbstractKCVSTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/KeyColumnValueStoreUtil.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/MultiWriteKeyColumnValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/log/LogTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/log/KCVSLogTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/SimpleScanJobRunner.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/indexing/IndexProviderTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/KeyValueStoreTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/diskstorage/DistributedStoreManagerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/DaemonRunner.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/TestCategory.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/JanusGraphFeature.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/JanusGraphAssert.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/RandomGenerator.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/TestTimestamps.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/RetryTemplateContext.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/FeatureFlag.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/RetryingTestFailure.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/MemoryAssess.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/JUnitBenchmarkProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/RetryInfo.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/RetryingTestExecutionExtension.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/FeatureRequirementCondition.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/CsvConsumer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/TestGraphConfigs.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/testutil/TestLoggerUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/database/management/ManagementTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/serializer/SpecialInt.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/serializer/SpecialIntSerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphOperationCountingTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphPartitionGraphTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphConcurrentTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/TestMockIndexProvider.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphIterativeBenchmark.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/GraphDatabaseConfigurationInstanceExecutorServiceTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphBaseTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/GraphDatabaseConfigurationInstanceIdTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphIoTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphIndexTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/TestMockLog.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphPerformanceMemoryTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/JanusGraphEventualGraphTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/graphdb/IndexMetricTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/java/org/janusgraph/TestByteBuffer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/groovy/org/janusgraph/graphdb/JanusGraphSpeedTest.groovy
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/groovy/org/janusgraph/graphdb/LongIterator.groovy
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/groovy/org/janusgraph/graphdb/SpeedTestSchema.groovy
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-backend-testutils/src/main/groovy/org/janusgraph/graphdb/GroovySpeedTestSupport.groovy
+ 
+*****************************************************

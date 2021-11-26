@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseStoreManager.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/ConnectionMask.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HConnection1_0.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/AdminMask.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseCompatLoader.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseKeyColumnValueStore.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseTransaction.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HTable1_0.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseCompat1_0.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseCompat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/TableMask.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/diskstorage/hbase/HBaseAdmin1_0.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/HBaseHadoopStoreManager.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/formats/hbase/HBaseBinaryRecordReader.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/formats/hbase/HBaseBinaryInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/formats/hbase/HBaseInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/formats/hbase/HBaseSnapshotInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/formats/hbase/HBaseSnapshotBinaryInputFormat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/config/HBaseAuthHelper.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/scan/HBaseHadoopScanRunner.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/org/janusgraph/hadoop/HBaseMapReduceIndexJobsUtils.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/com/google/common/io/Closeables.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/main/java/com/google/common/base/Stopwatch.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/HBaseMultiQueryGraphProvider.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/HBaseGraphComputerProvider.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/HBaseGraphProvider.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/structure/HBaseStructureTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/process/HBaseProcessTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/process/HBaseMultiQueryProcessTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/blueprints/process/HBaseComputerTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseStoreManagerConfigTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseMultiWriteStoreTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseLogTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseStoreTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseDistributedStoreManagerTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseLockStoreTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseIDAuthorityTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/diskstorage/hbase/HBaseStoreManagerMutationTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/hadoop/HBaseInputFormatIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/hadoop/HBaseIndexManagementIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/hadoop/HBaseSnapshotInputFormatIT.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/HBaseContainer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/graphdb/hbase/HBaseGraphPerformanceMemoryTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/graphdb/hbase/HBaseOperationCountingTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/graphdb/hbase/HBaseOLAPTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/graphdb/hbase/HBasePartitionGraphTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/graphdb/hbase/HBaseGraphTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/java/org/janusgraph/graphdb/hbase/HBaseGraphConcurrentTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/resources/hbase-read-snapshot.properties">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/resources/hbase-read.properties">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-hbase/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

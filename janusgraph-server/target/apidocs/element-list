@@ -1,0 +1,7 @@
+org.janusgraph.graphdb.grpc
+org.janusgraph.graphdb.grpc.schema
+org.janusgraph.graphdb.grpc.schema.util
+org.janusgraph.graphdb.server
+org.janusgraph.graphdb.server.util
+org.janusgraph.graphdb.tinkerpop.gremlin.server.auth
+org.janusgraph.graphdb.tinkerpop.gremlin.server.handler

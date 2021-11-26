@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/UncheckedSolrException.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/SolrResultIterator.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/SolrIndex.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/main/java/org/janusgraph/diskstorage/solr/transform/GeoToWktConverter.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexWithoutKerberosTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/BerkeleySolrTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/JanusGraphSolrContainer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/MiniKDC.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrJanusGraphIndexTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrTestCategory.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexKerberosKeytabTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexKerberosMissingConfigTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrRunner.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/SolrIndexTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/transform/GeoToWktConverterTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/janusgraph/diskstorage/solr/CQLSolrTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/java/org/apache/solr/cloud/ConfigurableMiniSolrCloudCluster.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-solr/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

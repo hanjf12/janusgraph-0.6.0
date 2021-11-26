@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchMutation.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/mapping/IndexMapping.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/mapping/TypelessIndexMappings.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/mapping/TypedIndexMappings.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchClient.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/AbstractESCompat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/ES6Compat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/ESCompatUtils.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/compat/ES7Compat.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchRequest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchResponse.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchConstants.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchIndex.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticMajorVersion.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/script/ESScriptResponse.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/script/ESScript.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchSetup.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/ElasticSearchScroll.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestSearchResponse.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestIndexSettings.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/RestClientAuthenticatorBase.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/RestClientAuthenticator.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/BasicAuthHttpClientConfigCallback.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/HttpAuthTypes.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/SSLConfigurationCallback.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/util/ConnectionKeepAliveConfigCallback.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestBulkResponse.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestElasticSearchClient.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestSearchHit.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestCountResponse.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestClientSetup.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/main/java/org/janusgraph/diskstorage/es/rest/RestSearchResults.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/CQLElasticsearchTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchConfigTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/JanusGraphElasticsearchContainer.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticSearchScrollTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/BerkeleyElasticsearchTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchJanusGraphIndexTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/RestClientSetupTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/util/BasicAuthHttpClientConfigCallbackTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/rest/util/SSLConfigurationCallbackTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/java/org/janusgraph/diskstorage/es/ElasticsearchIndexTest.java">
+</file>
+<file name="/Users/hjf/code/janusgraph-0.6.0/janusgraph-es/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

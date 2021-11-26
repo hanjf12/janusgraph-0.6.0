@@ -1,0 +1,13 @@
+org/janusgraph/diskstorage/solr/SolrRunner.class
+org/janusgraph/diskstorage/solr/BerkeleySolrTest.class
+org/janusgraph/diskstorage/solr/CQLSolrTest.class
+org/janusgraph/diskstorage/solr/SolrTestCategory.class
+org/janusgraph/diskstorage/solr/JanusGraphSolrContainer.class
+org/janusgraph/diskstorage/solr/SolrJanusGraphIndexTest.class
+org/janusgraph/diskstorage/solr/SolrIndexKerberosKeytabTest.class
+org/janusgraph/diskstorage/solr/transform/GeoToWktConverterTest.class
+org/janusgraph/diskstorage/solr/SolrIndexWithoutKerberosTest.class
+org/apache/solr/cloud/ConfigurableMiniSolrCloudCluster.class
+org/janusgraph/diskstorage/solr/MiniKDC.class
+org/janusgraph/diskstorage/solr/SolrIndexTest.class
+org/janusgraph/diskstorage/solr/SolrIndexKerberosMissingConfigTest.class

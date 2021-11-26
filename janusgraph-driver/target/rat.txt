@@ -1,0 +1,66 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-11-26T15:13:22+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 40
+
+Apache Licensed: 40
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/resources/log4j.properties
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/core/attribute/GeoshapeHelperTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/core/attribute/TinkerPopTextWrappingPredicateTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/core/JanusGraphContainer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/util/encoding/LongEncodingTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/JanusGraphSerializerBaseIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/JanusGraphGryoIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/binary/RelationIdentifierGraphBinarySerializerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/binary/JanusGraphPGraphBinarySerializerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/binary/GeoshapeGraphBinarySerializerTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleIT.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/plugin/JanusGraphGremlinDriverPluginTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/test/java/org/janusgraph/graphdb/tinkerpop/JanusGraphIoRegistryTest.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/Contain.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/Text.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/Geoshape.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/Geo.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/TinkerPopTextWrappingPredicate.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/Cmp.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/core/attribute/JtsGeoshapeHelper.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/util/StringUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/util/encoding/LongEncoding.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/JanusGraphPSerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/binary/RelationIdentifierGraphBinarySerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/binary/GraphBinaryType.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/binary/GeoshapeGraphBinarySerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/binary/JanusGraphPBinarySerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/binary/JanusGraphTypeSerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/JanusGraphP.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleV2d0.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModuleV1d0.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/io/graphson/JanusGraphSONModule.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/JanusGraphIoRegistry.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/plugin/JanusGraphGremlinDriverPlugin.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/DeprecatedJanusGraphPSerializer.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/tinkerpop/JanusGraphIoRegistryV1d0.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/database/serialize/AttributeUtils.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/relations/RelationIdentifier.java
+  AL    /Users/hjf/code/janusgraph-0.6.0/janusgraph-driver/src/main/java/org/janusgraph/graphdb/query/JanusGraphPredicate.java
+ 
+*****************************************************

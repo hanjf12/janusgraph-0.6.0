@@ -1,0 +1,8 @@
+org/janusgraph/diskstorage/solr/SolrIndex$2.class
+org/janusgraph/diskstorage/solr/SolrIndex$1.class
+org/janusgraph/diskstorage/solr/SolrResultIterator$SolrCallbackHandler.class
+org/janusgraph/diskstorage/solr/SolrResultIterator.class
+org/janusgraph/diskstorage/solr/SolrIndex.class
+org/janusgraph/diskstorage/solr/SolrIndex$Mode.class
+org/janusgraph/diskstorage/solr/transform/GeoToWktConverter.class
+org/janusgraph/diskstorage/solr/UncheckedSolrException.class
